@@ -5,6 +5,7 @@ def main():
     name = input()
     print("ハロー、" + name)
 
+    
 
     heads = 0
     tails = 0
