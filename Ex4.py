@@ -1,6 +1,11 @@
 import random
 def main():
 
+    print("あなた誰？ ")
+    name = input()
+    print("ハロー、" + name)
+
+
     heads = 0
     tails = 0
 
